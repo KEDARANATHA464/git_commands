@@ -21,3 +21,4 @@ First Time:
 			git add -A
 			
 			use git status command to check the status of files added or unstaged
+step 8: (Second Time)
