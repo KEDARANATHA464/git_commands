@@ -22,3 +22,6 @@ First Time:
 			
 			use git status command to check the status of files added or unstaged
 step 8: (Second Time)
+To get the latest code from repository(Branch)   [Remote - Local]
+
+git pull
