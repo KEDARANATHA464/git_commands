@@ -1,0 +1,23 @@
+First Time:
+
+ step 1: Login to Git HUb
+ step 2: Create new repository
+ Step 3: open folder (Where do you have project or files)
+ step 4: open command promt from folder
+ step 5: Enter command -> git init 
+ step 6: enter user name and password by entering below commands one by one
+			
+			git config --global user.name "username'
+			git config --global user.email "email address"
+ 
+ step 7: To add one file at a time, enter below command
+ 
+			git add fileName.extension (hello.java)
+			
+		 To add all files at time use any one of the below command
+
+			git add --all
+			   (or)
+			git add -A
+			
+			use git status command to check the status of files added or unstaged
